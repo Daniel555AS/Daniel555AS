@@ -12,3 +12,4 @@
   &nbsp;&nbsp;&nbsp;
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel555AS&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
