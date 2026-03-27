@@ -7,6 +7,7 @@
 </p>
 
 ## Projects
+
 - **The Python Path:** A web-based resource guiding learners through Python with a structured, adventure-style learning plan.\
   📦 [View Repo](https://github.com/Daniel555AS/the-python-path) - 🌐 [View Website](https://daniel555as.github.io/the-python-path/)
 
@@ -17,5 +18,10 @@
   📦 [View Admin. Panel Repo (Frontend)](https://github.com/Daniel555AS/PanelAdministracion_EmpresaMatriz_TOTESBGA) - 📦 [View Client Website Repo (Frontend)](https://github.com/Daniel555AS/WebsiteTotesBGAClientes) - 📦 [View Backend Repo](https://github.com/Daniel555AS/TotesMatrizBackend)
 
 - *Check out my other projects in my [repositories](https://github.com/Daniel555AS?tab=repositories) ;) ...*
+
+## Research / Academic Work
+
+- Artificial Intelligence in European Public Administration: A Data-Driven Analysis of Adoption, Capabilities, and Impact.\
+  📦 [View Repo](https://github.com/Daniel555AS/ai-in-european-public-administration) - 📋 [View Web Notebook](https://daniel555as.github.io/ai-in-european-public-administration/)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
