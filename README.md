@@ -24,4 +24,9 @@
 - Artificial Intelligence in European Public Administration: A Data-Driven Analysis of Adoption, Capabilities, and Impact.\
   📦 [View Repo](https://github.com/Daniel555AS/ai-in-european-public-administration) - 📋 [View Web Notebook](https://daniel555as.github.io/ai-in-european-public-administration/)
 
+---
+
+![](https://komarev.com/ghpvc/?username=Daniel555AS&color=blue&style=for-the-badge&label=PROFILE+VIEWS+;\))
+![GitHub User's stars](https://img.shields.io/github/stars/Daniel555AS?style=for-the-badge&logo=github&label=Stars%20%E2%AD%90)
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
